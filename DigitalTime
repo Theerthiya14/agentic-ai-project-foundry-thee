@@ -15,7 +15,3 @@ while(True):
         s=0
         m=0
         h=h+1
-    if(h==12):
-        s=0
-        m=0
-        h=0
